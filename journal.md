@@ -53,3 +53,7 @@ After a LOT of research, I determined that this would be viable. I then decided 
 The idea is that the hotend and extruder swap, and get power through pogo pins. This allows for one set of wires powering everything. I have to figure out the custom PCB for my toolhead, along with doing lots of math to calculate exactly what I need. On top of that, I have to do some firmware stuff to ensure that losing communication with the thermistor wont through a bunch of errors once the printer is actually up and running. I plan to move forward with the CAD and get the z axis figured out first. Hopefully, this system should allow for a cheaper, easier, simpler way to have a multi head printer. 
 
 Total Time Spent: 2 Hours
+
+## **5/16/2025 Log 4: Kinematics**
+
+![kinematics](https://github.com/user-attachments/assets/71b89c42-71c5-40a9-a606-734f1996527d)
