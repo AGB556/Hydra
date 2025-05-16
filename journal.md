@@ -18,3 +18,4 @@ After talking with one of my robotic mentors, I determined a few crucial details
 
 This allows me to have up to FIVE toolheads on the printer! While also simplifying my z axis and making it super simple. Now it is time to go to some simple sketches in Onshape to begin the process.
 
+Time Spent: 1 Hour
