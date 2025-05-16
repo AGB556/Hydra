@@ -14,4 +14,6 @@ After talking with one of my robotic mentors, I determined a few crucial details
 
 ![Bottom of the X1C](https://cdn-forum.bambulab.com/original/3X/4/e/4eaea6886d38b572c5476957a8a062e6ea47568e.webp)
 
-![First Idea](https://drive.google.com/file/d/1BWGR0cXiq5dpTLuwuGKrOXhIb-71SXnA/view?usp=drive_link)
+![First Idea](https://github.com/AGB556/Hydra/blob/main/Pictures/First%20Idea.png)
+
+This allows me to have up to FIVE toolheads on the printer!
