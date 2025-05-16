@@ -14,6 +14,7 @@ After talking with one of my robotic mentors, I determined a few crucial details
 
 ![Bottom of the X1C](https://cdn-forum.bambulab.com/original/3X/4/e/4eaea6886d38b572c5476957a8a062e6ea47568e.webp)
 
-![First Idea](https://github.com/AGB556/Hydra/blob/main/Pictures/First%20Idea.png)
+![First Idea](https://github.com/user-attachments/assets/6c60a9bc-2513-4067-8761-e16e68037779)
 
 This allows me to have up to FIVE toolheads on the printer! While also simplifying my z axis and making it super simple. Now it is time to go to some simple sketches in Onshape to begin the process.
+
