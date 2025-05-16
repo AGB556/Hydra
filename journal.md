@@ -1,4 +1,4 @@
-5/15/2025 Log 1: The Beginning
+## **5/15/2025 Log 1: The Beginning**
 
 I set up my repo, the onshape docs, and the other documents I am using to track my research. I also will make a pr on the hack club github once my project is approved. 
 
@@ -20,7 +20,7 @@ This allows me to have up to FIVE toolheads on the printer! While also simplifyi
 
 Time Spent: 1 Hour
 
-5/16/025 Log 3: This is going to be fun
+## **5/16/025 Log 2: This is going to be fun**
 
 I started my CAD work to knock out some general sizes from which i will design the rest of the printer. 
 
@@ -33,3 +33,23 @@ Other than that, I started my mastersketch for the frame, from which I will deri
 ![general idea](https://github.com/user-attachments/assets/27e8b088-10b5-4473-be7e-dd22ed6a3e5c)
 
 Time Spent: 1.5 Hours
+
+## **5/16/2025 Log 3: Pogo Pins and Starting the CAD**
+
+I first started by doing some frame work with the design. I have decided for my mental sanity that all of the 2020 extrusion will just be a 20mmx20mm rectangle, as trying to make the extrusion work for BISMUTH in Onshape was extremely annoying. 
+
+![Screenshot 2025-05-16 172515](https://github.com/user-attachments/assets/8203852f-2f3f-4b88-ac7a-74155f4707da)
+
+From here, I will do some more sketching to get my z axis locked in. 
+
+Then, I did some research and ideas for my toolhead power and transfer. After some research and discussion with some people, I found something called a pogo pin connector. This allows a non locking system in which I can change my toolhead and provide power with the same wires. 
+
+![toolchangfe 1](https://github.com/user-attachments/assets/635f1724-bb57-4b7d-9daa-52c17a98cb52)
+
+After a LOT of research, I determined that this would be viable. I then decided to do some drawing of a possible hotend idea. 
+
+![hotend_idea](https://github.com/user-attachments/assets/fcdde9bc-730a-4677-8ed2-7640d90f8737)
+
+The idea is that the hotend and extruder swap, and get power through pogo pins. This allows for one set of wires powering everything. I have to figure out the custom PCB for my toolhead, along with doing lots of math to calculate exactly what I need. On top of that, I have to do some firmware stuff to ensure that losing communication with the thermistor wont through a bunch of errors once the printer is actually up and running. I plan to move forward with the CAD and get the z axis figured out first. Hopefully, this system should allow for a cheaper, easier, simpler way to have a multi head printer. 
+
+Total Time Spent: 2 Hours
