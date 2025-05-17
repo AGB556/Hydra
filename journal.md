@@ -57,3 +57,8 @@ Total Time Spent: 2 Hours
 ## **5/16/2025 Log 4: Kinematics**
 
 ![kinematics](https://github.com/user-attachments/assets/71b89c42-71c5-40a9-a606-734f1996527d)
+
+
+
+
+![Screenshot 2025-05-16 201911](https://github.com/user-attachments/assets/2d9a6cf4-8a62-457d-94d6-9de530792046)
