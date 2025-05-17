@@ -54,11 +54,22 @@ The idea is that the hotend and extruder swap, and get power through pogo pins. 
 
 Total Time Spent: 2 Hours
 
-## **5/16/2025 Log 4: Kinematics**
+## **5/16/2025 Log 4: Frame**
 
+I spent some more time today working on the starting frame CAD. I also did some drawings for the kinematic system. Below are screenshots of my current state. 
 ![kinematics](https://github.com/user-attachments/assets/71b89c42-71c5-40a9-a606-734f1996527d)
 
-
+This shows the possible kinematic system!
 
 
 ![Screenshot 2025-05-16 201911](https://github.com/user-attachments/assets/2d9a6cf4-8a62-457d-94d6-9de530792046)
+
+The original frame design
+
+![Screenshot 2025-05-16 222258](https://github.com/user-attachments/assets/620368a4-19bf-4dcc-a942-8d430ea4aee2)
+
+My newest frame design! This is the one I am going forward with. I have drawn out the 3D printed brackets that will additionally stiffen the frame up. 
+
+I also determined that, if I go forward with my pogo pin idea, I actually have an additional four stepper motor slots than I additionally had to begin with! This means that I can either find a different board, or I have some extra slots to play around with. Maybe I can go for triple z on the axis, or maybe I can go for 2 motors on A and B for more speed, or... the possibilities are endless! 
+
+Time Spent: 2 Hours
