@@ -73,3 +73,17 @@ My newest frame design! This is the one I am going forward with. It uses a combo
 I also determined that, if I go forward with my pogo pin idea, I actually have an additional four stepper motor slots than I additionally had to begin with! This means that I can either find a different board, or I have some extra slots to play around with. Maybe I can go for triple z on the axis, or maybe I can go for 2 motors on A and B for more speed, or... the possibilities are endless! 
 
 Time Spent: 2 Hours
+
+## **5/18/2025 Log 5: CoreXY
+
+I made huge progress on my kinematic system today! Took almost the entire day but I got it done. 
+
+![image](https://github.com/user-attachments/assets/f6254d2a-b544-4216-9a04-b1b16d7a76a2)
+![image](https://github.com/user-attachments/assets/3afbfb91-132f-40b0-9b1b-000fcce6eb54)
+![image](https://github.com/user-attachments/assets/ac0ad034-2516-4e68-9e7a-04b3789a7308)
+This core-xy system uses 2 motors with 2 independent belts rigged as seen above to power the system. This is a typical motion system for 3D printers. Through the development of this system, I had to increase the frame size quite a bit unfortunately. However, after all is said and done this is looking good. I still have to add belt tensioners once I figure out my toolhead. 
+
+I also did extreme research into the toolchanger. Based off of my options, it is looking like I am going to need an active toolchanger in order to make this work. I have been researching possible ways and hopefully will have something to show soon!
+
+Time Spent: 6 Hours
+
