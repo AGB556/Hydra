@@ -1,3 +1,10 @@
+---
+title: "Hydra"
+author: "bcon"
+description: "multi head 3d printer with automatic toolchanging"
+created_at: "2025-05-15"
+---
+
 ## **5/15/2025 Log 1: The Beginning**
 
 I set up my repo, the onshape docs, and the other documents I am using to track my research. I also will make a pr on the hack club github once my project is approved. 
