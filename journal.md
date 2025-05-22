@@ -110,4 +110,6 @@ Here is my wiring diagram for going from the motherboard to the toolhead.
 
 I also put the cad together and started to form my toolhead, but it is still a very rough design right now.
 
+I am also deciding on switching my motherboard, most likely, and going forwards with a 3 motor kinematic bed z design, unlike the original one motor z design that I first had. 
+
 Time Spent: 3 Hours
