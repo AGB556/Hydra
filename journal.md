@@ -94,3 +94,20 @@ I also did extreme research into the toolchanger. Based off of my options, it is
 
 Time Spent: 6 Hours
 
+## 5/22/2025 Log 6: Toolhead
+
+After taking a short break to finish up school and have some personal time, I am moving forwards with my design by ironing down a few key features: what my toolhead consists of. 
+
+Extruder - [ProtoXtruder 2.0 ](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0) - I chose this extruder for the price and quality, along with being able to manufacture it myself.
+Hotend - Some Bambu Lab Clone due to the price and various options available. This allows me to easily swap in higher quality versions for different filaments
+Toolhead Board - EBB 36 v1.2 - This is a solid, cheap board with everything I am looking for. 
+Special Stuff: I am going to try to make a toolhead "Hat" to put onto my board with pogo pins that will allow me to power my individual toolheads from the same board. This has both pros and cons, but I have decided to move forwards with this idea as it is unique and interesting. 
+
+My goal is to have 5 or 6 toolheads, depending on how many I can fit in my printer. The more the better, and I can always easily add them on later. I may also have another idea that will allow me to double that, but we will leave that in the brain for now...
+
+![wiring diagram](https://github.com/user-attachments/assets/bddee1d2-0f32-4443-9799-550dfa4d34c5)
+Here is my wiring diagram for going from the motherboard to the toolhead.
+
+I also put the cad together and started to form my toolhead, but it is still a very rough design right now.
+
+Time Spent: 3 Hours
