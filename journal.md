@@ -113,3 +113,11 @@ I also put the cad together and started to form my toolhead, but it is still a v
 I am also deciding on switching my motherboard, most likely, and going forwards with a 3 motor kinematic bed z design, unlike the original one motor z design that I first had. 
 
 Time Spent: 3 Hours
+
+## 5/22/2025 Log : Toolhead CAD
+
+I started to put my ideas for the toolhead into cad. Here is the general idea behind my toolhead.
+
+![image](https://github.com/user-attachments/assets/039f03df-eeb1-46a0-9f87-fe4ff5aef5dd)
+
+WIP
