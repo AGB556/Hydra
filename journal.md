@@ -94,7 +94,7 @@ I also did extreme research into the toolchanger. Based off of my options, it is
 
 Time Spent: 6 Hours
 
-## 5/22/2025 Log 6: Toolhead
+## 5/22/2025 Log 6: ToolChanger V1
 
 After taking a short break to finish up school and have some personal time, I am moving forwards with my design by ironing down a few key features: what my toolhead consists of. 
 
@@ -114,10 +114,30 @@ I am also deciding on switching my motherboard, most likely, and going forwards 
 
 Time Spent: 3 Hours
 
-## 5/22/2025 Log : Toolhead CAD
+## 5/22-23/2025 Log : Toolhead CAD
 
 I started to put my ideas for the toolhead into cad. Here is the general idea behind my toolhead.
 
 ![image](https://github.com/user-attachments/assets/039f03df-eeb1-46a0-9f87-fe4ff5aef5dd)
 
-WIP
+Then, I put these ideas into real life. This took multiple hours of design work, thinking, and cross referencing from drawings and designs found on the web. 
+
+![image](https://github.com/user-attachments/assets/66395b69-b9b6-4ff4-b08b-ad8300222716)
+
+The first version looks like so. It uses a spring and a servo actuated latch to open and close. 
+
+![image](https://github.com/user-attachments/assets/c844efc2-a617-42b1-9983-555dc4353b3d)
+
+It uses two standard mk8 brass nozzles mounted to the part on the spring to self center in two holes on the toolhead, along with a pair of magnets to align. When the servo releases, the spring pushes up, locking the toolhead into place. 
+
+![image](https://github.com/user-attachments/assets/ec0b1e8c-79d2-4828-a879-4c26ead7bc5b)
+
+Then, there are 4 magnets and 2 rods that make up the dock for the toolhead. The toolhead will be mounted like so to the frame. This will be the next thing I do. 
+
+![image](https://github.com/user-attachments/assets/47580b20-056a-41aa-8999-384e3083f51b)
+
+Finally, I have to rethink how I power this, as there is very little room for my pogo pins. I may have to go with a standard umbilical rather than this new idea for space purposes, but we will see how much space I have once I finish everything else. 
+
+Next Steps: I am going to work on a second version of the toolchanger, get some air ducts in there, and get the toolhead dock cadded and mounted. Basically, everything except the power and the z axis. 
+
+Time Spent: 8 Hours over the two days.
