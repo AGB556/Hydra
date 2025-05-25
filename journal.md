@@ -114,7 +114,7 @@ I am also deciding on switching my motherboard, most likely, and going forwards 
 
 Time Spent: 3 Hours
 
-## 5/22-23/2025 Log : Toolhead CAD
+## 5/22-23/2025 Log 7: Toolhead CAD
 
 I started to put my ideas for the toolhead into cad. Here is the general idea behind my toolhead.
 
@@ -141,3 +141,17 @@ Finally, I have to rethink how I power this, as there is very little room for my
 Next Steps: I am going to work on a second version of the toolchanger, get some air ducts in there, and get the toolhead dock cadded and mounted. Basically, everything except the power and the z axis. 
 
 Time Spent: 8 Hours over the two days.
+
+## 5/24/2025 Log 8: ToolChanger V2
+
+I was not happy with the first version of my toolchanger, so I made some changes. To start, I replaced the linkage with a direct drive servo. Per my math, the servo should have enough force to compress the spring 10mm. Additionally, I modified the geometry to be better optomized. 
+
+![image](https://github.com/user-attachments/assets/73195d06-5974-449e-b7b5-aeaf6ae87c8e)
+
+I also put in heat set inserts to mount the back part. I decided to split these parts in order for better printability.
+
+![image](https://github.com/user-attachments/assets/ad1ff9df-dfc2-4dad-b379-750cf4f9df5a)
+
+The final fan duct is also in the CAD now, thanks to Rolohaun and his crossxy printer. I am going to connect that to either a 5015 blower fan or a 4028 blower fan for part cooling. I will also mount the auto bed leveling, most likely a BL touch onto that part as well. I am unsure what I am going to do with the rest of the space. Tomorrow, I will work on my belt clamps, fan mount, and ABL mount to finish up the toolhead. 
+
+Time Spent: 3 Hours
