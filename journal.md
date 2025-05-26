@@ -155,3 +155,19 @@ I also put in heat set inserts to mount the back part. I decided to split these 
 The final fan duct is also in the CAD now, thanks to Rolohaun and his crossxy printer. I am going to connect that to either a 5015 blower fan or a 4028 blower fan for part cooling. I will also mount the auto bed leveling, most likely a BL touch onto that part as well. I am unsure what I am going to do with the rest of the space. Tomorrow, I will work on my belt clamps, fan mount, and ABL mount to finish up the toolhead. 
 
 Time Spent: 3 Hours
+
+## 5/25/2025 Log 9: ToolHead Updates!
+
+I have successfully finished the first (and second and third and fourth) version of my toolhead! 
+
+![image](https://github.com/user-attachments/assets/1f6296e0-1f77-4e15-ba41-2f2b11927105)
+
+Utilizing the BTT EBB 36 Toolhead Board, a Bambu Lab Clone Hotend, my custom toolchanging mech, and a 5015 blower fan for part cooling, this thing sits at just under 2.125 inches wide! This allows me to fit 6 toolheads in my designated dock space! I currently plan to make one of them a designated ABL dock with just something like a BL Touch, so there will be 5 distinct toolheads at this moment. Today, I not only added in the custom fan ducts, but added in spots for belt wrap, as well as shortened my overall width. Additionally, I modified my overall frame size in order to comfortably fit my 300mm x 300mm bed - which I have decided to use due to the fact that it is more common to find parts for cheap for that bed size. It also allows me to use all 400mm linear rails instead of a mix of 350mm and 400mm.
+
+![image](https://github.com/user-attachments/assets/915ea041-8975-477e-8e82-dfddb020717d)
+
+Current CAD. 
+
+Up Next: Toolhead Dock, Z Axis, and Electronics Mounting
+
+Time Spent: 5 Hours
