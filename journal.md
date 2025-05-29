@@ -171,3 +171,57 @@ Current CAD.
 Up Next: Toolhead Dock, Z Axis, and Electronics Mounting
 
 Time Spent: 5 Hours
+
+## 5/26/2025 Log 10: Toolhead Dock!
+
+![image](https://github.com/user-attachments/assets/0d24410b-e6bb-4af3-b1d3-55e651eb390d)
+
+I spent this time creating the docks for my toolheads. They utilize 4 6mm OD x 2mm WD magnets along with 2 5mm Steel Rods to dock the toolhead. The magnets line up with the magnets on the toolhead.
+
+![image](https://github.com/user-attachments/assets/816adb27-f1e9-4550-bec3-2768b979f93e)
+
+All together, I can fit 6 docks, and this is the full assembly with them. They attach to the 2020 extrusion that runs across the printer. 
+
+![image](https://github.com/user-attachments/assets/bb55819b-4848-4c3b-b892-76223806135a)
+
+Finally, I decided to make one of the toolheads purely a bed leveling probe. This is because I don't see a need for more than 5 toolheads, along with decreasing complexity on the main toolhead. If needed, I can figure something else out later and add in the 6th toolhead. 
+
+All in all, this was a smaller amount of time spent, but certainly a lot more fruitful. 
+
+TIme Spent: 3 Hours
+
+## 5/27/2025 Log 11: Starting Z!
+
+After finishing my gantry and toolchanger, I decided to tackle the last part of my project: The Z Axis. I first started by drawing out my motor locations in my mastersketch. 
+
+![image](https://github.com/user-attachments/assets/0ccc1654-8180-4c21-a64d-d157e669702a)
+
+Additionally, I had to find my bed. A custom bed or voron type of bed is too expensive for this project, so I found a Railcore 2 Bed for cheap on [Filastruder](https://www.filastruder.com/products/bed?_pos=6&_sid=41451c2f2&_ss=r). 
+
+I then put the bed into my sketch to draw out my total build volume. 
+
+![image](https://github.com/user-attachments/assets/521f28ba-3262-43dc-9913-036a8e47ea36)
+
+The bed is 340mm x 320mm, however, I am going to use a buildplate sized for the K1 Max, so my total build volume will be 310mm x 315mm. 
+
+After I finished deciding on that, I started making my stepper motor mounts for z. I am going with a triple leadscrew kinematic bed mount type of z axis. This means that I have 3 motors on my z axis, and they each individually control one leadscrew. Then, since three points create a plane, a kinematic bed mount is perfect for this. For a better explanation than I could ever make on kinematic bed mounts, see [here](https://3ddistributed.com/corexy-3d-printer/kinematic-bed-mounting/). 
+
+![image](https://github.com/user-attachments/assets/e2e29ed1-fd24-48f7-af15-bda41286d667)
+
+These mounts are simple, but effective. 
+
+Time Spent: 4 Hours. 
+
+## 5/28/2025 Log 12: Kinematic Bed Mounts!
+
+![image](https://github.com/user-attachments/assets/a24e125a-07b8-4411-9760-191e4eeff771)
+
+I decided to make my kinematic bed mounts today. They consist of a magnetic steel ball and a strong magnet, along with a pair of rods to create a joint that is both flexible, yet connected. 
+
+![image](https://github.com/user-attachments/assets/1e0496ac-9dbe-4363-8f06-5a46de119715)
+
+This assembly, one three points, creates a flexible bed that, when properly aligned, stays flat. 
+
+All in all, this kinematic bed mount will also allow the bed to expand and contract as the bed heats and cools, meaning that the bed will not be affected by the heating and cooling cycles, allowing it to stay flat in all conditions. 
+
+Time Spent: 3 Hours
