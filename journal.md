@@ -216,7 +216,7 @@ Time Spent: 4 Hours.
 
 ![image](https://github.com/user-attachments/assets/a24e125a-07b8-4411-9760-191e4eeff771)
 
-I decided to make my kinematic bed mounts today. They consist of a magnetic steel ball and a strong magnet, along with a pair of rods to create a joint that is both flexible, yet connected. 
+I decided to make my kinematic bed mounts today. They consist of a magnetic steel ball and a strong magnet, along with a pair of rods to create a joint that is both flexible, yet connected. With a bed of this size, a kinematic bed mount is required in order to not put undue stress on the bed while it heats and expands. I decided to use a ball and magnet after exploring many options due to its simplicity. 
 
 ![image](https://github.com/user-attachments/assets/1e0496ac-9dbe-4363-8f06-5a46de119715)
 
