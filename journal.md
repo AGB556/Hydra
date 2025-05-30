@@ -225,3 +225,23 @@ This assembly, one three points, creates a flexible bed that, when properly alig
 All in all, this kinematic bed mount will also allow the bed to expand and contract as the bed heats and cools, meaning that the bed will not be affected by the heating and cooling cycles, allowing it to stay flat in all conditions. 
 
 Time Spent: 3 Hours
+
+## 5/29/2025 Log 13: Electronics Mounting and Frame Stiffening
+
+I did two things today. Firstly, I mounted the electronics onto my printer. This includes the power supply, main board, Raspberry Pi 0 2 W, and the BTT U2C adapter. 
+
+![image](https://github.com/user-attachments/assets/c935b04c-3907-4697-aa18-6fd7ce60d496)
+
+I utilized DIN rains for my mounting and wire management. This is to allow me to easily shift them around if need be. I am mounting them to an acrylic plate that I will lasercut, which will seperate the electronics from the main printer. 
+
+The next thing I did was talk to a lot of people, many of who had made their own printers, about stiffening my frame. After a lot of research, I added in these corner blocks. 
+
+![image](https://github.com/user-attachments/assets/91d6dfdd-c4c1-4e8f-8720-78bc6a88cd7c)
+
+Additionally, i will be bolting through the extrusion into tapped holes in these locations shown below. 
+
+![b05471b9da5ac031d4fce72f0dee70c196379d0e](https://github.com/user-attachments/assets/6aaf2bcf-7520-4d52-b9bb-18f8ab91b8f4)
+
+All in all, this should help stiffen up my frame significantly. This is important to not only be fast, but be accurate with my printer, which is extremely important. Additionally, the electronics mounts was the last thing I had to do for this. Next steps are to polish up the design, add on some Hydra branding, and make my BOM. Til next time. 
+
+Time Spent: 4.5 Hours
