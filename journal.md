@@ -4,6 +4,7 @@ author: "bcon"
 description: "multi head 3d printer with automatic toolchanging"
 created_at: "2025-05-15"
 ---
+Total Time Spent So Far: 46.75 hours
 
 ## **5/15/2025 Log 1: The Beginning**
 
