@@ -17,7 +17,7 @@ Project Goals:
 ##### Image subject to change pending branding decisions
 [Onshape Link](https://cad.onshape.com/documents/06d5bb477eff6af95bad1008/w/4f1adad0f4cbc3a91c9aa0ac/e/b5f5acca075f107544ea9fa6)
 
-At this current point in time, assuming you have no tools, wire, hardware, or anything of the sort, the current BOM is $563.58 pre tax and pre shipping. 
+At this current point in time, assuming you have no tools, wire, hardware, or anything of the sort, the current BOM is $623.56 pre tax and pre shipping. 
 
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1dxXwSJXcaqQSJZOgLCcOFMtPYZC8gTVC_DopSeNoC-k/edit?gid=0#gid=0)
 
