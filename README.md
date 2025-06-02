@@ -13,7 +13,8 @@ Project Goals:
  - Heated Bed
  - Rigid Frame
 
-![image](https://github.com/user-attachments/assets/c0cd9026-2b8e-4c0f-a5ed-81e13c8cf335)
+![image](https://github.com/user-attachments/assets/8d85f49f-5a82-4192-8bf2-6f60e446c0e9)
+
 ##### Image subject to change pending branding decisions
 [Onshape Link](https://cad.onshape.com/documents/06d5bb477eff6af95bad1008/w/4f1adad0f4cbc3a91c9aa0ac/e/b5f5acca075f107544ea9fa6)
 
