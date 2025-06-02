@@ -246,3 +246,17 @@ Additionally, i will be bolting through the extrusion into tapped holes in these
 All in all, this should help stiffen up my frame significantly. This is important to not only be fast, but be accurate with my printer, which is extremely important. Additionally, the electronics mounts was the last thing I had to do for this. Next steps are to polish up the design, add on some Hydra branding, and make my BOM. Til next time. 
 
 Time Spent: 4.5 Hours
+
+## 6/2/2025 Log 13: Updated Tensioners
+
+I spent some time today redoing my tensioning setup. My original setup, pictured below, had no real way to keep the belt in proper tension. 
+
+![image](https://github.com/user-attachments/assets/4f791ee8-94ca-414e-8d78-2c1886c03971)
+
+My new way uses 2 bolts per side to pull the printed block with the idler more, thus tensioning the belt. 
+
+![image](https://github.com/user-attachments/assets/d9f99600-0b1f-4809-833f-94a9d4883755)
+
+This allows me to properly tension my belts, ensuring my CoreXY system can be maintained and uses properly. 
+
+Time Spent: 2 Hours
