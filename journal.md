@@ -260,3 +260,41 @@ My new way uses 2 bolts per side to pull the printed block with the idler more, 
 This allows me to properly tension my belts, ensuring my CoreXY system can be maintained and uses properly. 
 
 Time Spent: 2 Hours
+
+7/22/2025 BUILD UPDATE
+
+I have not done a very good job at keeping this updated. 
+
+Over the past month, I have been printing parts, testing, redesigning, and reprinting along with cutting, sanding, and tapping extrusion, and finally, assembling my printer. I have attached pictures of the various stages below. 
+
+![1000011836](https://github.com/user-attachments/assets/edb128b1-9d16-4c87-a138-46d7716a99d8)
+
+![1000011837](https://github.com/user-attachments/assets/e71dcc79-b699-4d92-aab8-1d0c08bb9d19)
+
+![1000011855](https://github.com/user-attachments/assets/27088729-90cc-44ce-a781-d1e151da993b)
+
+![1000011845](https://github.com/user-attachments/assets/80292f0c-0017-460c-9f09-68bed4475c76)
+I first started by assembling my frame and mounting the linear rails, along with the x/y motor assemblies. I used a square to ensure this frame was built squarely. Overall, I am quite proud with this build quality and rigidity of this frame. 
+![1000011857](https://github.com/user-attachments/assets/a8d89969-bdc7-4d12-b12a-ae66ae8d4bf1)
+
+I soon realized my original z parts were not quite right, so I had to reprint them.
+
+![1000012362](https://github.com/user-attachments/assets/8b3d8197-85ab-4fcd-863a-97433dcbfb4e)
+
+After that was fixed, I mounted my kinematic bed, but spent a few hours messing around with it to make it so nothing binds. As you see in this picture, the leadscrew is not parallel with the frame right now. I ended up having to remount the linear rails as well as reseat the motors. 
+
+![1000012584](https://github.com/user-attachments/assets/4511e6e9-83ed-4c2a-bd50-2888e9a85cd4)
+
+From there, I can add the magnetic bed and silicon heater to the bed. 
+
+![1000012563](https://github.com/user-attachments/assets/0ded839d-7849-4a85-8a18-68b6b7907165)
+
+This picture here shows the small gap between the fan and the toolhead, I am planning to seal it with some electrical tape or something. 
+![1000012377](https://github.com/user-attachments/assets/1bc067fb-ff71-4447-8acc-bc767045e70b)
+
+I then assembled and mounted my 6 toolheads. The bambu hotend is not in it yet, just the base and extruder. 
+![1000012564](https://github.com/user-attachments/assets/67708dd7-6270-4043-9dd9-1a1ec0f939a1)
+
+Finally, I mounted my electronics to the back panel. 
+
+Some other notes: I have gone through a few toolhead revisions to get the toolchanging working - the spring idea works, however the servo is not strong enough. I just ordered stronger servos and have to do some redesigning to make this work - but preliminary testing with the new servo says it should now work.
